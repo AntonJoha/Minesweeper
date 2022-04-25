@@ -1,1 +1,0 @@
-/home/kentagent/Documents/kul/Minesweeper/Minesweeper/target/debug/Minesweeper: /home/kentagent/Documents/kul/Minesweeper/Minesweeper/src/gameboard.rs /home/kentagent/Documents/kul/Minesweeper/Minesweeper/src/main.rs
