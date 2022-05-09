@@ -2,8 +2,8 @@ mod gameboard;
 
 
 fn main() {
-    println!("Hello, world!");
-    let b = gameboard::Board::new(10,10,10);
+    let mut b = gameboard::Board::new(9,9,10);
+    let over = b.guess(5,5);
     b.print();
-    b.print();
+    println!("{}", over);
 }
